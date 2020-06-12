@@ -6,7 +6,7 @@ namespace Abstraction_interface
 {
     public class peliharaan_interface : Ihewan
     {
-        public void air()
+        public void jenis()
         {
             Console.WriteLine("ini dia jenis dari hewan peliharaan : ");
             Console.WriteLine("Kucing, Hamster, Marmut, Kelinci, Kura-kura.");
