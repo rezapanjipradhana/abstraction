@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Abstraction_interface
 {
-    public class peliharaan_interface : Iikan
+    public class peliharaan_interface : Ihewan
     {
         public void air()
         {
