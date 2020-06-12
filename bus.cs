@@ -8,7 +8,7 @@ namespace Abstrction
     {
         public override void jenis()
         {
-            Console.WriteLine("Ini adalah ikan yang hidup di air tawar : ");
+            Console.WriteLine("ini dia jenis dari hewan buas : ");
             Console.WriteLine("Macan, Singa, Hiu, Buaya, Serigala.");
         }
     }
